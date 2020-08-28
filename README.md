@@ -1,5 +1,21 @@
 # HackerRank_Projects
 
+Solve Me First
+
+Complete the function solveMeFirst to compute the sum of two integers.
+
+Function prototype:
+
+int solveMeFirst(int a, int b);
+
+where,
+
+a is the first integer input.
+b is the second integer input
+Return values
+
+sum of the above two integers
+
 Sock Merchant
 
 John works at a clothing store. He has a large pile of socks that he must pair by color for sale. Given an array of integers representing the color of each sock, determine how many pairs of socks with matching colors there are.
