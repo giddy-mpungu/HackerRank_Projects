@@ -15,7 +15,7 @@ def sockMerchant(n, ar):
             del ar[:2]
         else:
             del ar[0]
-            
+
     return len(x)
 
 if __name__ == '__main__':
